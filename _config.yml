@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Jekyll! Testing changes
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -28,7 +28,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "San Francisco Bay Area"
   employer         : "University of California, San Francisco"
-  uri              : # URL
+  uri              : # URLd
   email            : "Jennaphamu@gmail.com" 
 
   # Academic websites
