@@ -25,9 +25,9 @@ author:
   avatar           : test1.jpg
   name             : "Jenna Pham"
   pronouns         : "she/her"  
-  bio              : "Twentysomethings. Building bridges between healthcare and technology. Currently @UCSF"
-  location         : "San Francisco Bay Area "
-  employer         : "University of California, San Francisco"
+  bio              : "Twentysomethings. Building bridges between healthcare and technology. Currently @Stanford"
+  location         : "Silicon Valley "
+  employer         : "Stanford University"
   uri              : # URLd
   email            : "Jennaphamu@gmail.com" 
 
